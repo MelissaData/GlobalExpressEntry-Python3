@@ -7,7 +7,7 @@ Please feel free to copy or embed this code to your own project. Happy coding!
 
 For the latest Melissa Global Express Entry release notes, please visit: https://releasenotes.melissa.com/cloud-api/global-express-entry/
 
-For further documentation, please visit: https://www.melissa.com/quickstart-guides/express-entry
+For further documentation, please visit: https://docs.melissa.com/cloud-api/global-express-entry/global-express-entry-index.html
 
 The console will ask the user for:
 
@@ -166,7 +166,7 @@ This is the expected output from a successful setup for interactive mode:
 ![alt text](/screenshots/output2.png)
 
 ## Result Codes
-For details about the result codes please refer to https://wiki.melissadata.com/index.php?title=Result_Code_Details#Global_Express_Entry
+For details about the result codes please refer to https://docs.melissa.com/melissa/result-codes/result-codes-index.html
 
 ## Contact Us
 For free technical support, please call us at 800-MELISSA ext. 4 (800-635-4772 ext. 4) or email us at tech@melissa.com.
