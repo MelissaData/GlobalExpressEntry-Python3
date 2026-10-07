@@ -36,7 +36,7 @@ And return information of the address such as:
 ## Tested Environments
 - Windows 10 64-bit Python 3.10.4, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit Python 3.10.4
-- Global Express Address Cloud API Version 9.1430.1.2344
+- Global Express Address Cloud API Version 10.1441.1.20260807
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
